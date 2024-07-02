@@ -1,0 +1,2 @@
+rebase feature1.txt
+rebase feature1.txt commit 2
